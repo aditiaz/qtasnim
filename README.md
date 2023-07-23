@@ -1,4 +1,4 @@
-<h1>Qtasnim/h1>
+<h1>Qtasnim</h1>
 
 <h2>1.Sisi Server</h2>
 <p>Masuk ke direktori qtasnim _be</p>
